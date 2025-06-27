@@ -1,6 +1,23 @@
-# 🌍 AI Learning Roadmap by Shahzad
-
+# ai-learning-roadmap
 Welcome to my AI learning journey! This repo will contain all the Python notebooks, mini-projects, and learning materials I create as I grow in the field of Artificial Intelligence and Machine Learning.
+AI learning journey from basics to advanced (Python, ML, DL, TensorFlow)
+
+## 📘 Notebooks Included
+
+- `ai_world.ipynb` – My first notebook with NumPy, Matplotlib, and Python basics
+- `data_analysis.ipynb` – Coming soon: Pandas and data visualization
+
+## 🛠️ Tools Used
+
+- Python 3
+- Jupyter (via VS Code)
+- NumPy, Matplotlib
+- Manual GitHub uploads
+
+## 💡 About Me
+
+I am transitioning into AI from a Zoology background.  
+This GitHub is part of my portfolio for jobs, internships, and scholarships.
 
 ## ✅ Projects
 
