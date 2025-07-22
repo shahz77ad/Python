@@ -1,4 +1,4 @@
-# ai-learning-roadmap
+# Python
 Welcome to my AI learning journey! This repo will contain all the Python notebooks, mini-projects, and learning materials I create as I grow in the field of Artificial Intelligence and Machine Learning.
 AI learning journey from basics to advanced (Python, ML, DL, TensorFlow)
 
